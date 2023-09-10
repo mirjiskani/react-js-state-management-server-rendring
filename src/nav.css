@@ -1,0 +1,8 @@
+.my-navbar{
+   display: inline;
+  }
+  .navLink {
+    color: black;
+    text-decoration: none;
+    padding: 13px;
+}
